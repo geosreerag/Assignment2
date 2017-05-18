@@ -1,0 +1,66 @@
+2017-05-18 09:13:17
+Refree:Geo
+ID:Oz1103  Name:Carren  Age:23  State:ACT  Time:14
+ID:Oz1104  Name:Donald  Age:24  State:ACT  Time:15
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:18
+
+2017-05-18 09:13:25
+Refree:Geo
+ID:Oz1105  Name:Erric  Age:25  State:NSW  Time:134
+ID:Oz1109  Name:Ivan  Age:22  State:NSW  Time:140
+ID:Oz1106  Name:Fletcher  Age:26  State:NSW  Time:151
+
+2017-05-18 09:13:25
+Refree:Geo
+ID:Oz1103  Name:Carren  Age:23  State:ACT  Time:14
+ID:Oz1104  Name:Donald  Age:24  State:ACT  Time:15
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:18
+
+2017-05-18 09:13:46
+Refree:Sam
+ID:Oz1102  Name:Bijo  Age:22  State:VIC  Time:551
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:604
+ID:Oz1109  Name:Ivan  Age:22  State:NSW  Time:690
+
+2017-05-18 09:13:46
+Refree:Sam
+ID:Oz1105  Name:Erric  Age:25  State:NSW  Time:134
+ID:Oz1109  Name:Ivan  Age:22  State:NSW  Time:140
+ID:Oz1106  Name:Fletcher  Age:26  State:NSW  Time:151
+
+2017-05-18 09:13:46
+Refree:Sam
+ID:Oz1103  Name:Carren  Age:23  State:ACT  Time:14
+ID:Oz1104  Name:Donald  Age:24  State:ACT  Time:15
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:18
+
+2017-05-18 10:52:47
+Refree:Sam
+ID:Oz1103  Name:Carren  Age:23  State:ACT  Time:10
+ID:Oz1107  Name:George  Age:27  State:VIC  Time:10
+ID:Oz1110  Name:John  Age:24  State:NT  Time:10
+
+2017-05-18 11:25:16
+Refree:Sam
+ID:Oz1110  Name:John  Age:24  State:NT  Time:11
+ID:Oz1107  Name:George  Age:27  State:VIC  Time:16
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:16
+
+2017-05-18 11:35:12
+Refree:Sam
+ID:Oz1110  Name:John  Age:24  State:NT  Time:11
+ID:Oz1107  Name:George  Age:27  State:VIC  Time:16
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:16
+
+2017-05-18 11:35:26
+Refree:Sam
+ID:Oz1110  Name:John  Age:24  State:NT  Time:11
+ID:Oz1107  Name:George  Age:27  State:VIC  Time:16
+ID:Oz1108  Name:Harrvy  Age:21  State:NSW  Time:16
+
+2017-05-18 11:36:53
+Refree:Sam
+ID:Oz1104  Name:Donald  Age:24  State:ACT  Time:11
+ID:Oz1107  Name:George  Age:27  State:VIC  Time:12
+ID:Oz1103  Name:Carren  Age:23  State:ACT  Time:14
+
